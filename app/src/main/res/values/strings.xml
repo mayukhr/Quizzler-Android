@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Bits Quiz</string>
+
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="initial_score">Score 0/13</string>
+
+
+    <string name="incorrect_toast">Wrong!</string>
+    <string name="correct_toast">You got it!</string>
+
+    <string name="question_1">Android is from Alibaba Group.</string>
+    <string name="question_2">Current Android version is called Biryani.</string>
+    <string name="question_3">Android runs on C++</string>
+    <string name="question_4">Android is in a lot of mobile phones and tablets.</string>
+    <string name="question_5">Android is better than iOS.</string>
+    <string name="question_6">Android assistant is Siri.</string>
+    <string name="question_7">JellyBean is an Android OS.</string>
+    <string name="question_8">Bill Gates created Android.</string>
+    <string name="question_9">Android is slow.</string>
+    <string name="question_10">SDPD Exam is tough.</string>
+    <string name="question_11">Android is for iPhones</string>
+    <string name="question_12">Android is OpenSource</string>
+    <string name="question_13">Android Quiz is cool!</string>
+
+</resources>
